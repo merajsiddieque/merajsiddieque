@@ -1,4 +1,4 @@
-# Hi there, I'm Meraj Alam Siddique 👋
+# Hi there, I'm Meraj Alam 👋
 
 ### AI Engineer | Backend & Full-Stack Developer
 
