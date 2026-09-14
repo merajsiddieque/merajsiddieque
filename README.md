@@ -110,7 +110,7 @@ End-to-end encrypted messaging application using **AES-GCM** and Firebase Firest
 
 - 📧 **merajsiddieque@gmail.com**
 - 💼 LinkedIn
-- 🌐 Portfolio (add your Vercel URL)
+- 🌐 **https://meraj-portfolio-phi.vercel.app/**
 
 ---
 
