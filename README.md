@@ -109,7 +109,7 @@ End-to-end encrypted messaging application using **AES-GCM** and Firebase Firest
 ## 📫 Connect With Me
 
 - 📧 **merajsiddieque@gmail.com**
-- 💼 LinkedIn
+- 💼 **https://www.linkedin.com/in/merajsiddieque**
 - 🌐 **https://meraj-portfolio-phi.vercel.app/**
 
 ---
